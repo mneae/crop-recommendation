@@ -1,5 +1,6 @@
 # crop-recommendation
-The most appropriate agricultural product recommendation model for farmers.
+
+*Machine Learning*
 
 ---
 * I prepared this project with a dataset from Kaggle. It was part of the **Big Data and Business Analytics** course I took at **Istanbul Technical University**.
